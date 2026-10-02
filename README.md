@@ -18,19 +18,14 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/shivapavanboga/news_research_tool.git
 ```
-2.Navigate to the project directory:
-
-```bash
-  cd 2_news_research_tool_project
-```
-3. Install the required dependencies using pip:
+2. Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
 ```
-4.Get a free Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey) (no credit card
+3.Get a free Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey) (no credit card
 required) and add it to a `.env` file in the project root:
 
 ```bash
